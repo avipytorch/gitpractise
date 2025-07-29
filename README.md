@@ -1,3 +1,4 @@
 ### git tutorial 
 ## higit add README.md -
-## dafd
+## dafdgit commit –m “This is my first commit”
+## ok this is my second commit 
